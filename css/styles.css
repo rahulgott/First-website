@@ -1,0 +1,129 @@
+body {
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+}
+
+.title_hello {
+  /* color: #40514e; */
+  color: #66BFBF;
+  width: 400px;
+  font-size: 60px;
+  margin: 0 auto 0 auto;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  color: #ac8daf;
+  width: 400px;
+  margin: 0 auto 0 auto;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Josefin Sans', sans-serif;
+  /* font-family: 'Merriweather', serif; */
+  /* font-family: 'Montserrat', sans-serif; */
+  font-weight: normal;
+  /* line-height: 2; */
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  /* font-size: 16px; */
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #d3d6db;
+  border-width: 8px;
+  width: 10%;
+  margin: 100px auto 100px auto;
+}
+
+.topContainer {
+  background-color: #232931;
+  position: relative;
+  padding-top: 50px;
+}
+
+.odogaron {
+  height: 50%;
+  width: 50%;
+}
+
+.profile_pic {
+  height: 12%;
+  width: 12%;
+  border-radius: 50%;
+  margin: 100px auto 50px auto;
+}
+
+.skills-1 {
+  width: 50%;
+  margin: 30px auto 100px auto;
+  text-align: left;
+}
+
+.skills-2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.drawing_icon {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+  /* border-radius: 50%; */
+}
+
+.coding_icon {
+  width: 20%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 50px;
+}
+
+.contactMe_button_color {
+  text-decoration: none;
+  background: #ac8daf;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  transition: background-color .5s;
+}
+
+.find-me {
+  margin-bottom: 40px;
+}
+
+.contactMe_button_color:hover {
+  background-color: gold;
+}
+
+.footerPart {
+  background-color: #ac8daf;
+  height: 150px;
+  padding-top: 50px;
+}
+
+.follow {
+  font-family: 'Josefin Sans', sans-serif;
+  margin: auto 50px;
+  color: white;
+}
+
+.declaration{
+  color: white;
+  /* position: relative; */
+  padding-top: 70px;
+}
